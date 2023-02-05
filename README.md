@@ -16,7 +16,7 @@ Download the JWKTL jar file from (here)[https://search.maven.org/search?q=a:dkpr
 
 ### Step 5
 Add the the jar files of both Berkeley DB and JWKTL to your classpath
-- In the folder you extracted the Berkeley zip file to, go to the lib folder and find a jar file (name would have this signature: je-*version*.jar)
+- In the folder you extracted the Berkeley zip file to, go to the lib folder and find a jar file (name would have this signature: je-{*version*}.jar)
 - Note copy the path to this file
 - Add this classpath to your environmental variables under the CLASSPATH variable. (Search for environmental variables in windows, click on environmental varibles in the window shown, in the bottom section, click add and add CLASSPATH as a variable name and the file location as variabe value)
 - Do the same thing for the donwloaded jar file for JWKTL. In this case, just add the file location of the downloaded jar file
