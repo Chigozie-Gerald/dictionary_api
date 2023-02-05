@@ -4,6 +4,7 @@ This is a java end point for a dictionary parsed from Wiktionary database
 ## Steps to take
 ### Step 1
 Download the wiktionary dump file from this (Wiktionary page)[https://dumps.wikimedia.org/enwiktionary/20220320/enwiktionary-20220320-pages-articles.xml.bz2]
+- Replace 20220320 with your current date
 
 ### Step 2
 Clone this repo
